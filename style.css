@@ -121,15 +121,15 @@
         display: flex;
         flex-direction:column;
         align-items: center;
-        padding-top: 15%;
+        padding-top: 3%;
         position: relative;
         justify-content:space-around;
         z-index: 100;
-        gap: 10vw;
+        gap: 2vw;
     }
     
     .container img{
-        width: 30vw;
+        width: 25vw;
         height: auto;
         position: relative;
     }
@@ -186,7 +186,7 @@
     }
     
     .container img{
-        width: 30vw;
+        width: 35vw;
         height: auto;
         position: relative;
     }
